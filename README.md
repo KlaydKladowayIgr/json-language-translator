@@ -1,11 +1,11 @@
 # Json language file translator written in Python
-##Libraries used
+## Libraries used
 * deep_translator
 * tqdm
 * json
 * asyncio
 
-##How to use
+## How to use
 1. Edit `input.json` to add key:value pairs (key value is translated)
 2. Run script
 3. Enter target language
